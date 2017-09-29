@@ -1,4 +1,3 @@
-const util = require("util");
 const stat = require('fs').stat;
 const exec = require('child_process').exec;
 

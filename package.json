@@ -4,8 +4,7 @@
   "description": "Simple scafolding for statics web projects",
   "main": "gulpfile.babel.js",
   "scripts": {
-    "start": "sh ./.autorunning.sh",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node .start.js"
   },
   "author": "Alvaro Felipe",
   "license": "GPL-2.0",
